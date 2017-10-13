@@ -1,2 +1,2 @@
 # Hashtables
-Different Implementations of a Hashtable (Fully written from scratch)
+Different Implementations of a Hashtable (Written fully from scratch)
